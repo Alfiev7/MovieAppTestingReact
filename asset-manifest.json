@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Alfiev7/MovieAppTestingReact/static/css/main.334bdeb1.css",
+    "main.js": "/Alfiev7/MovieAppTestingReact/static/js/main.cee821f3.js",
+    "index.html": "/Alfiev7/MovieAppTestingReact/index.html",
+    "static/media/search.svg": "/Alfiev7/MovieAppTestingReact/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Alfiev7/MovieAppTestingReact/static/css/main.334bdeb1.css.map",
+    "main.cee821f3.js.map": "/Alfiev7/MovieAppTestingReact/static/js/main.cee821f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.cee821f3.js"
+  ]
+}
